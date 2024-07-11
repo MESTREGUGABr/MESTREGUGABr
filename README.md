@@ -1,6 +1,6 @@
 
 
-# Olá, eu sou Gustavo Wanderley 👋🤠
+# Olá, eu sou Gustavo Wanderley 🧙‍♂️🐸
 <br>
 
 ## Minhas redes ;D
