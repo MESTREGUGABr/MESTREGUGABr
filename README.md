@@ -23,5 +23,6 @@
 </div>
 <br>
 
+![snake gif](https://github.com/MESTREGUGABr/MESTREGUGABr/blob/output/github-snake-dark.svg)
 <br>
 
