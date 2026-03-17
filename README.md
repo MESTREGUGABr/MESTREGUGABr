@@ -14,7 +14,7 @@
 
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,next,postgres,mysql,spring,fastapi,github,githubactions,gitlab,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,nodejs,androidstudio,firebase,figma&perline=14" alt="skillss">
+<img src="https://skillicons.dev/icons?i=py,java,cpp,next,postgres,mysql,spring,fastapi,github,githubactions,gitlab,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,nodejs,androidstudio,firebase,figma,supabase, &perline=14" alt="skillss">
 </div>
 <br>
 
