@@ -10,7 +10,7 @@
 <br>
 <br>
 
-![Gustavo Wanderley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MESTREGUGABr&show_icons=true&theme=radical)
+![Gustavo Wanderley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MESTREGUGABr&show_icons=true&theme=highcontrast)
 
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
