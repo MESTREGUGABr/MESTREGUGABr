@@ -13,8 +13,6 @@
 <br>
 <br>
 
-![Gustavo Wanderley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MESTREGUGABr&show_icons=true&theme=highcontrast)
-
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
 <img src="https://skillicons.dev/icons?i=py,java,cpp,next,postgres,mysql,spring,fastapi,github,githubactions,gitlab,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,nodejs,androidstudio,firebase,figma,supabase,typescript&perline=14" alt="skillss">
