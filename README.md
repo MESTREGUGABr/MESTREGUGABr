@@ -13,6 +13,18 @@
 <br>
 <br>
 
+<div float="left" align="center">
+    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Data ■ Agents ■ GCP ■ LLM ■ ADK ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
+
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
 <img src="https://skillicons.dev/icons?i=py,java,cpp,next,postgres,mysql,spring,fastapi,github,githubactions,gitlab,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,nodejs,androidstudio,firebase,figma,supabase,typescript&perline=14" alt="skillss">
